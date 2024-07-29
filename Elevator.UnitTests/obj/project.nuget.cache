@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9PlpEgXRV1c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\peterm\\Desktop\\brij.backed.developer.challenge.sln\\Elevator.UnitTests\\ElevatorChallege.UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peterm\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\peterm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\peterm\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\peterm\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\peterm\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
